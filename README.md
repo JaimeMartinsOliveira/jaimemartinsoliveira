@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">👋 Olá! Eu sou Jaime Martins, Desenvolvedor Back-end com mais de um ano de experiência e estudante de Análise e Desenvolvimento de Sistemas, com conclusão prevista para dezembro de 2024. Tenho forte habilidade em Java, Spring Boot, MySQL, e AWS. Conhecimento em bancos de dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB). Experiência com Docker e Azure, além de AWS. Apaixonado por tecnologia, já desenvolvi APIs, plataformas de e-commerce, e sistemas de notificação. Sempre em busca de novos desafios e oportunidades para aprender e crescer.</h2>
 
 ###
 
