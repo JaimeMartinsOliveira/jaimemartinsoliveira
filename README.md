@@ -20,6 +20,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 </div>
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -43,7 +44,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
-###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/jaime-martins-de-oliveira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -55,4 +56,4 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-###
+
