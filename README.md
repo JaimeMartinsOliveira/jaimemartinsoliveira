@@ -1,8 +1,16 @@
-Aqui está a versão melhorada do seu README, com os botões de LinkedIn, WhatsApp e Gmail configurados para abrir em uma nova guia:
+<h2 align="left">👋 Olá! Eu sou Jaime Martins, Desenvolvedor Back-end com mais de um ano de experiência e estudante de Análise e Desenvolvimento de Sistemas, com conclusão prevista para dezembro de 2024.
 
----
+Ao longo da minha trajetória, adquiri habilidades sólidas em Java e Spring Boot, permitindo-me criar APIs robustas e sistemas de alta performance. Minha experiência com Kafka garante a implementação de sistemas de mensagens eficientes, enquanto Docker, Azure e AWS fortalecem meu conhecimento em ambientes de nuvem e infraestrutura como código.
 
-<h2 align="left">👋 Olá! Eu sou Jaime Martins, Desenvolvedor Back-end com mais de um ano de experiência e estudante de Análise e Desenvolvimento de Sistemas, com conclusão prevista para dezembro de 2024. Tenho forte habilidade em Java, Spring Boot, MySQL e AWS. Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB), além de experiência com Docker e Azure. Apaixonado por tecnologia, já desenvolvi APIs, plataformas de e-commerce e sistemas de notificação. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.</h2>
+Tenho um conhecimento aprofundado em bancos de dados, tanto relacionais (PostgreSQL, MySQL) quanto não relacionais (MongoDB), permitindo-me desenvolver soluções escaláveis e eficientes.
+
+Além de minha expertise em back-end, possuo conhecimentos em front-end que me permitem criar aplicações completas e integradas. Sou proficiente em JavaScript, Node.js, e frameworks como NestJS e Next.js, o que me capacita a desenvolver tanto o servidor quanto a interface de usuário. Minha experiência com Angular também me permite construir interfaces dinâmicas e responsivas.
+
+Desenvolvi diversas soluções, desde plataformas de e-commerce e sistemas de notificação até aplicações de streaming de vídeo, sempre focando na eficiência, segurança e escalabilidade das soluções.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Se você procura um desenvolvedor back-end com um sólido entendimento de front-end e uma paixão por tecnologia, estou pronto para contribuir e fazer a diferença na sua equipe.
+
+</h2>
 
 ###
 
@@ -12,13 +20,6 @@ Aqui está a versão melhorada do seu README, com os botões de LinkedIn, WhatsA
 </div>
 
 ###
-
-<div align="center">
-  <img height="" src=""  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -42,9 +43,7 @@ Aqui está a versão melhorada do seu README, com os botões de LinkedIn, WhatsA
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
-
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jaime-martins-de-oliveira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -57,10 +56,3 @@ Aqui está a versão melhorada do seu README, com os botões de LinkedIn, WhatsA
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jaimemartinsoliveira/jaimemartinsoliveira/output/snake.svg" alt="Snake animation" />
-
-###
