@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá! Eu sou Jaime Martins, Desenvolvedor Back-end com mais de um ano de experiência e estudante de Análise e Desenvolvimento de Sistemas, com conclusão prevista para dezembro de 2024.
+<h2 align="left">👋 Olá! Eu sou Jaime Martins, Desenvolvedor Back-end com mais de um ano de experiência e Formado em Análise e Desenvolvimento de Sistemas.
 
 Ao longo da minha trajetória, adquiri habilidades sólidas em Java e Spring Boot, permitindo-me criar APIs robustas e sistemas de alta performance. Minha experiência com Kafka garante a implementação de sistemas de mensagens eficientes, enquanto Docker, Azure e AWS fortalecem meu conhecimento em ambientes de nuvem e infraestrutura como código.
 
