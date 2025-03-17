@@ -1,16 +1,4 @@
-<h2 align="left">👋 Olá! Eu sou Jaime Martins, Desenvolvedor Back-end com mais de um ano de experiência e Formado em Análise e Desenvolvimento de Sistemas.
 
-Ao longo da minha trajetória, adquiri habilidades sólidas em Java e Spring Boot, permitindo-me criar APIs robustas e sistemas de alta performance. Minha experiência com Kafka garante a implementação de sistemas de mensagens eficientes, enquanto Docker, Azure e AWS fortalecem meu conhecimento em ambientes de nuvem e infraestrutura como código.
-
-Tenho um conhecimento aprofundado em bancos de dados, tanto relacionais (PostgreSQL, MySQL) quanto não relacionais (MongoDB), permitindo-me desenvolver soluções escaláveis e eficientes.
-
-Além de minha expertise em back-end, possuo conhecimentos em front-end que me permitem criar aplicações completas e integradas. Sou proficiente em JavaScript, Node.js, e frameworks como NestJS e Next.js, o que me capacita a desenvolver tanto o servidor quanto a interface de usuário. Minha experiência com Angular também me permite construir interfaces dinâmicas e responsivas.
-
-Desenvolvi diversas soluções, desde plataformas de e-commerce e sistemas de notificação até aplicações de streaming de vídeo, sempre focando na eficiência, segurança e escalabilidade das soluções.
-
-Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Se você procura um desenvolvedor back-end com um sólido entendimento de front-end e uma paixão por tecnologia, estou pronto para contribuir e fazer a diferença na sua equipe.
-
-</h2>
 
 ###
 
