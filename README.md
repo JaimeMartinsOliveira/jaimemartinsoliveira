@@ -33,7 +33,7 @@
 
 <div align=center>
   
- <img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/JaimeMartinsOliveira/JaimeMartinsOliveira/output/snake.svg" alt="Snake animation" />
   
 </div>
   
@@ -41,5 +41,5 @@
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{silaspires}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JaimeMartinsOliveira}/count.svg" /></p> 
 <br></div>
