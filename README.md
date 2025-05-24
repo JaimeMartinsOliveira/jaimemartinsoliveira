@@ -1,7 +1,6 @@
 
 <h3 align="center">Desenvolvedor Back-end | GenIA | LangChain | NLP | RAG | LLMs</h3>
 
-<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
 
