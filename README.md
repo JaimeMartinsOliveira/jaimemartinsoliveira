@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-<h3 align="center">Idiomas e Ferramentas</h3>
+<h3 align="center">Programming Languages:</h3>
 <p align="center">
   <!-- Linguagens de Programação -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -72,7 +72,7 @@
 
 
 <div align=center>
-  <p>My social networks</p>
+  <p>Social Networks</p>
 <a href="linkedin.com/in/jaime-martins-de-oliveira/" target="_blank"><img alt="LINKEDIN-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://github.com/JaimeMartinsOliveira" target="_blank"><img alt="GITHUB-logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
 <a href="mailto:Contato.jaimemartins@gmail.com" target="_blank"><img alt="MAIL-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
