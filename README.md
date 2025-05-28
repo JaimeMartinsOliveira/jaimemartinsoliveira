@@ -16,7 +16,7 @@
 ---
 <div align="center">
   <a href="https://github.com/JaimeMartinsOliveira">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={JaimeMartinsOliveira}&theme={monokai}"/>
+    <img ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaimeMartinsOliveira&theme=dracula)/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeMartinsOliveira&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
