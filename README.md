@@ -14,10 +14,9 @@
 - 📬 E-mail para contato: [contato.jaimemartins@gmail.com](mailto:contato.jaimemartins@gmail.com)
 
 ---
-
 <div align="center">
   <a href="https://github.com/JaimeMartinsOliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaimeMartinsOliveira&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={JaimeMartinsOliveira}&theme={monokai}"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeMartinsOliveira&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
