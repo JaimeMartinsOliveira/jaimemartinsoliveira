@@ -18,8 +18,8 @@
 <div align="center">
   <a href="https://github.com/JaimeMartinsOliveira">
     
-  ![Leonardo's GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=JaimeMartinsOliveira&theme=dracula&count_private=true)
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeMartinsOliveira&layout=compact&langs_count=16&theme=dracula"/>
+  ![Jaime Martins GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=JaimeMartinsOliveira&theme=Dracula&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeMartinsOliveira&langs_count=8&hide=java,html,vue&layout=compact)
+/>
   </a>
 </div>
 
