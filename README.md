@@ -19,7 +19,7 @@
   <a href="https://github.com/JaimeMartinsOliveira">
     
   ![Jaime Martins GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=JaimeMartinsOliveira&theme=dracula&count_private=true) 
-  ![jaimemartinsoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimemartinsoliveira&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![jaimemartinsoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimemartinsoliveira&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
   </a>
 </div>
