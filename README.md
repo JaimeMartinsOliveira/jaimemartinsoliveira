@@ -12,13 +12,16 @@
 - 📚 Aprendendo continuamente sobre LLMs, RAG, LangChain, NLP
 - 🚀 Aberto a novas oportunidades profissionais
 - 📬 E-mail para contato: [contato.jaimemartins@gmail.com](mailto:contato.jaimemartins@gmail.com)
-<a href="https://www.linkedin.com/in/leonardomarcao/" target="_blank">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+
+  <a href="https://www.linkedin.com/in/leonardomarcao/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 ---
 <div align="center">
   <a href="https://github.com/JaimeMartinsOliveira">
-    ![Leonardo's GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=leonardomarcao&theme=default&count_private=true)
+    
+  ![Leonardo's GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=leonardomarcao&theme=default&count_private=true)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeMartinsOliveira&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
