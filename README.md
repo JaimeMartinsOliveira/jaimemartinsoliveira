@@ -20,7 +20,6 @@
     
   ![Jaime Martins GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=JaimeMartinsOliveira&theme=dracula&count_private=true) 
   ![jaimemartinsoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimemartinsoliveira&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  ![jaimemartinsoliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaimemartinsoliveira&theme=vue-dark&hide_border=true)
 />
   </a>
 </div>
