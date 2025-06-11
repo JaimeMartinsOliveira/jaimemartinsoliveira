@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Jaime Martins! 👋🏾</h1>
    
-<p align="center">
+<p align="center"> 
   Desenvolvedor <strong>Back-end</strong> apaixonado por <strong>IA Generativa</strong>, <strong>LLMs</strong> e tecnologias de ponta.
   <br>
   Em busca de oportunidades para aplicar minhas habilidades em <strong>LangChain</strong>, <strong>NLP</strong>, <strong>RAG</strong> e mais. 
