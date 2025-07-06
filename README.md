@@ -6,7 +6,7 @@
   Em busca de oportunidades para aplicar minhas habilidades em <strong>LangChain</strong>, <strong>NLP</strong>, <strong>RAG</strong> e mais.
 </p>
 
----  
+---    
 
 - 👨🏾‍💻 Desenvolvedor Back-end | GenIA Enthusiast
 - 📚 Aprendendo continuamente sobre LLMs, RAG, LangChain, NLP
