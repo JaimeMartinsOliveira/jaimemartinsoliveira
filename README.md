@@ -88,5 +88,5 @@
 
 <div align="center">
   <p><strong>Visitantes:</strong></p>
-  <img src="https://profile-counter.glitch.me/JaimeMartinsOliveira/count.svg"/>
+  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 </div>
