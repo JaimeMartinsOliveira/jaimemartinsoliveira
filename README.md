@@ -1,5 +1,4 @@
 <h1 align="center">Olá, eu sou o Jaime Martins! 👋🏾</h1>
- [![Jogue Doom agora](https://meu-repo.github.io/doom-preview.gif)](https://meu-repo.github.io/doom)
 
 <p align="center">
   Desenvolvedor <strong>Back-end</strong> apaixonado por <strong>IA Generativa</strong>, <strong>LLMs</strong> e tecnologias de ponta.
