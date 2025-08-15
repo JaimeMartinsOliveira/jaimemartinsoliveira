@@ -1,20 +1,19 @@
 <h1 align="center">Olá, eu sou o Jaime Martins! 👋🏾</h1>
-
+ 
 <p align="center">
   Desenvolvedor <strong>Back-end</strong> apaixonado por <strong>IA Generativa</strong>, <strong>LLMs</strong> e tecnologias de ponta.
   <br>
   Em busca de oportunidades para aplicar minhas habilidades em <strong>LangChain</strong>, <strong>NLP</strong>, <strong>RAG</strong> e mais.
 </p> 
-
+ 
 ---  
 
 - 👨🏾‍💻 Desenvolvedor Back-end | GenIA Enthusiast
 - 📚 Aprendendo continuamente sobre LLMs, RAG, LangChain, NLP
 - 🚀 Aberto a novas oportunidades profissionais
 - 📬 E-mail para contato: [contato.jaimemartins@gmail.com](mailto:contato.jaimemartins@gmail.com)
-  
-  
----
+
+--- 
 <div align="center">
   <a href="https://github.com/JaimeMartinsOliveira">
     
