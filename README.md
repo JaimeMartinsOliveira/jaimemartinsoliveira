@@ -8,7 +8,7 @@
    
 ---  
 
-- 👨🏾‍💻 Desenvolvedor Back-end | GenIA Enthusiast
+- 👨🏾‍💻 Desenvolvedor Back-end | GenIA
 - 📚 Aprendendo continuamente sobre LLMs, RAG, LangChain, NLP
 - 🚀 Aberto a novas oportunidades profissionais
 - 📬 E-mail para contato: [contato.jaimemartins@gmail.com](mailto:contato.jaimemartins@gmail.com)
